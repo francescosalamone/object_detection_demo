@@ -1,0 +1,92 @@
+<annotation>
+    <folder>train</folder>
+    <filename>3353.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\train\3353.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3264</width>
+        <height>2448</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1632</xmin>
+            <ymin>1258</ymin>
+            <xmax>3122</xmax>
+            <ymax>2425</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2706</xmin>
+            <ymin>1144</ymin>
+            <xmax>3256</xmax>
+            <ymax>1710</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1976</xmin>
+            <ymin>1208</ymin>
+            <xmax>2080</xmax>
+            <ymax>1315</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1368</xmin>
+            <ymin>1204</ymin>
+            <xmax>1476</xmax>
+            <ymax>1409</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1066</xmin>
+            <ymin>1183</ymin>
+            <xmax>1174</xmax>
+            <ymax>1405</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>person</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1586</xmin>
+            <ymin>1187</ymin>
+            <xmax>1650</xmax>
+            <ymax>1377</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>targa</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1880</xmin>
+            <ymin>1759</ymin>
+            <xmax>2197</xmax>
+            <ymax>1901</ymax>
+        </bndbox>
+    </object>
+</annotation>
