@@ -1,0 +1,59 @@
+<annotation>
+    <folder>train</folder>
+    <filename>4222.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\train\4222.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>3264</width>
+        <height>2448</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>5</xmin>
+            <ymin>804</ymin>
+            <xmax>831</xmax>
+            <ymax>1268</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2340</xmin>
+            <ymin>773</ymin>
+            <xmax>3119</xmax>
+            <ymax>1263</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>28</xmin>
+            <ymin>759</ymin>
+            <xmax>2804</xmax>
+            <ymax>2212</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>3042</xmin>
+            <ymin>803</ymin>
+            <xmax>3259</xmax>
+            <ymax>1095</ymax>
+        </bndbox>
+    </object>
+</annotation>

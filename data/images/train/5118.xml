@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>5118.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\train\5118.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1280</width>
+        <height>960</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>210</xmin>
+            <ymin>56</ymin>
+            <xmax>1137</xmax>
+            <ymax>836</ymax>
+        </bndbox>
+    </object>
+</annotation>
