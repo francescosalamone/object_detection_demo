@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>8224.jpg</filename>
+	<path>C:\Users\salam\Documents\Image_for_training\test\8224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>78</width>
+		<height>77</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>limite 60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>8</ymin>
+			<xmax>67</xmax>
+			<ymax>71</ymax>
+		</bndbox>
+	</object>
+</annotation>

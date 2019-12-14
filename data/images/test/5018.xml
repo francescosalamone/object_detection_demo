@@ -1,0 +1,26 @@
+<annotation>
+    <folder>test</folder>
+    <filename>5018.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\test\5018.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>750</width>
+        <height>563</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>car</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>59</xmin>
+            <ymin>153</ymin>
+            <xmax>741</xmax>
+            <ymax>501</ymax>
+        </bndbox>
+    </object>
+</annotation>

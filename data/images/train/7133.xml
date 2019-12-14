@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>7133.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\train\7133.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>78</width>
+        <height>77</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>limite 10</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>9</ymin>
+            <xmax>65</xmax>
+            <ymax>62</ymax>
+        </bndbox>
+    </object>
+</annotation>

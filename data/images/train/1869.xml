@@ -1,0 +1,15 @@
+<annotation>
+    <folder>train</folder>
+    <filename>1869.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\train\1869.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1600</width>
+        <height>1067</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+
+</annotation>

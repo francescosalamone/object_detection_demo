@@ -1,0 +1,26 @@
+<annotation>
+    <folder>train</folder>
+    <filename>9156.jpg</filename>
+    <path>C:\Users\salam\Documents\Image_for_training\train\9156.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>122</width>
+        <height>76</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>targa</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>1</xmin>
+            <ymin>1</ymin>
+            <xmax>120</xmax>
+            <ymax>74</ymax>
+        </bndbox>
+    </object>
+</annotation>
